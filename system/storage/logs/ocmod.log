@@ -1,0 +1,558 @@
+2016-12-23 12:27:28 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+----------------------------------------------------------------
+2016-12-23 12:27:33 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+----------------------------------------------------------------
+2016-12-23 12:27:56 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+----------------------------------------------------------------
+2016-12-23 12:33:07 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: $powered;
+LINE: 41
+----------------------------------------------------------------
+2016-12-23 12:39:14 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
+LINE: 16
+----------------------------------------------------------------
+2016-12-23 12:51:27 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+
+FILE: catalog/controller/common/footer.php
+CODE: $data['text_newsletter'] = $this->language->get('text_newsletter');
+LINE: 20
+CODE: $data['store_locator'] = $this->url->link('account/newsletter', '', true);
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
+LINE: 16
+----------------------------------------------------------------
+2016-12-23 12:52:34 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+
+FILE: catalog/controller/common/footer.php
+CODE: $data['text_newsletter'] = $this->language->get('text_newsletter');
+LINE: 20
+CODE: $data['newsletter'] = $this->url->link('account/newsletter', '', true);
+LINE: 47
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
+LINE: 16
+----------------------------------------------------------------
+2016-12-23 12:52:36 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+
+FILE: catalog/controller/common/footer.php
+CODE: $data['text_newsletter'] = $this->language->get('text_newsletter');
+LINE: 20
+CODE: $data['newsletter'] = $this->url->link('account/newsletter', '', true);
+LINE: 47
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
+LINE: 16
+----------------------------------------------------------------
+2016-12-23 13:04:10 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+
+FILE: catalog/controller/common/footer.php
+CODE: $data['text_newsletter'] = $this->language->get('text_newsletter');
+LINE: 20
+CODE: $data['newsletter'] = $this->url->link('account/newsletter', '', true);
+LINE: 47
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
+LINE: 16
+----------------------------------------------------------------
+2016-12-23 13:10:30 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+
+FILE: catalog/controller/common/footer.php
+CODE: $data['text_newsletter'] = $this->language->get('text_newsletter');
+LINE: 23
+CODE: $data['newsletter'] = $this->url->link('account/newsletter', '', true);
+LINE: 51
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
+LINE: 19
+----------------------------------------------------------------
+2016-12-23 13:10:31 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+
+FILE: catalog/controller/common/footer.php
+CODE: $data['text_newsletter'] = $this->language->get('text_newsletter');
+LINE: 23
+CODE: $data['newsletter'] = $this->url->link('account/newsletter', '', true);
+LINE: 51
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
+LINE: 19
+----------------------------------------------------------------
+2016-12-23 14:09:26 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Product Title Modification
+
+FILE: catalog/controller/product/product.php
+CODE: $data['heading_title'] = $product_info['name'];
+LINE: 226
+
+FILE: catalog/controller/common/footer.php
+CODE: $data['text_newsletter'] = $this->language->get('text_newsletter');
+LINE: 23
+CODE: $data['newsletter'] = $this->url->link('account/newsletter', '', true);
+LINE: 51
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
+LINE: 19
+----------------------------------------------------------------
